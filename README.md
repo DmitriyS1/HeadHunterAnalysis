@@ -26,5 +26,5 @@
  - ### Salary on education scatter plor ![sal_edu_s](/plots/SalaryOnEducationScatter.png)
  - ### Salary on city scatter ![sal_city_s](/plots/SalaryOnCityScatter.png)
  - ### Heatmap of salary depending on age and education ![sal_age_edu_hm](/plots/SalaryOnEducationAndAgeHeatmap.png)
- - ### Experience in years on age in years. Red line shows values where experience is equal to age, purple line shows value where experience starts at 15 years ![exp_age_s](/plots/ExperienceOnAgeScatter.png)
+ - ### Experience in years on age in years. Red line shows values where experience is equal to age, purple line shows values where experience starts at 15 years ![exp_age_s](/plots/ExperienceOnAgeScatter.png)
 
