@@ -17,8 +17,14 @@
 
  Plotly doesn't appear in this preview, so here are some plots:
 
- - Age histogram [age_h](/plots/AgeHistogram.png)
- - Age bixplot [age_b](/plots/AgeBox.png)
- - Experience histogram [exp_h](/plots/ExperienceHistogram.png)
- - Experience boxplot [exp_b](/plots/ExperienceBox.png)
+ - ### Age histogram ![age_h](/plots/AgeHistogram.png)
+ - ### Age boxplot ![age_b](/plots/AgeBox.png)
+ - ### Experience histogram ![exp_h](/plots/ExperienceHistogram.png)
+ - ### Experience boxplot ![exp_b](/plots/ExperienceBox.png)
+ - ### Salary histogram ![sal_h](/plots/SalaryHistogram.png)
+ - ### Salary boxplot ![sal_b](/plots/SalaryBox.png)
+ - ### Salary on education scatter plor ![sal_edu_s](/plots/SalaryOnEducationScatter.png)
+ - ### Salary on city scatter ![sal_city_s](/plots/SalaryOnCityScatter.png)
+ - ### Heatmap of salary depending on age and education ![sal_age_edu_hm](/plots/SalaryOnEducationAndAgeHeatmap.png)
+ - ### Experience in years on age in years. Red line shows values where experience is equal to age, purple line shows value where experience starts at 15 years ![exp_age_s](/plots/ExperienceOnAgeScatter.png)
 
